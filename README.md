@@ -9,7 +9,7 @@ AES is a 256 byte encryption.
 - sbt
 
 ## Docker stack
-- maven:3-openjdk-17
+- openjdk:8-jdk-alpine
 
 ## To run
 `sudo ./install.sh -u`
